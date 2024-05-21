@@ -1,0 +1,53 @@
+2024-05-21 12:08:42 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:08:42 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:08:43 INFO  Testbase:52 - Navigation to Biography section...
+2024-05-21 12:10:59 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:10:59 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:11:01 WARN  Testbase:68 - Check product added into the cart
+2024-05-21 12:11:09 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:11:09 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:11:10 INFO  Testbase:61 - Add product into the cart ...
+2024-05-21 12:11:19 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:11:19 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:11:20 INFO  Testbase:52 - Navigation to Biography section...
+2024-05-21 12:11:38 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:11:38 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:11:40 INFO  Testbase:44 - check if image being displayed or not... 
+2024-05-21 12:11:50 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:11:50 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:11:52 INFO  Testbase:37 - search for the desired book...
+2024-05-21 12:12:01 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:12:01 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:12:03 INFO  Testbase:37 - search for the desired book...
+2024-05-21 12:28:52 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:28:52 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:35:37 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:35:37 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:35:54 INFO  Testbase:53 - check if image being displayed or not... 
+2024-05-21 12:40:11 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:40:12 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:40:14 INFO  Testbase:62 - Navigation to Biography section...
+2024-05-21 12:43:14 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:43:14 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:43:18 WARN  Testbase:78 - Check product added into the cart
+2024-05-21 12:43:25 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:43:25 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:43:28 INFO  Testbase:71 - Add product into the cart ...
+2024-05-21 12:43:36 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:43:36 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:43:39 INFO  Testbase:62 - Navigation to Biography section...
+2024-05-21 12:43:59 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:43:59 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:44:01 INFO  Testbase:53 - check if image being displayed or not... 
+2024-05-21 12:44:14 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:44:14 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:44:16 INFO  Testbase:42 - search for the desired book...
+2024-05-21 12:44:27 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:44:27 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:44:31 INFO  Testbase:42 - search for the desired book...
+2024-05-21 12:52:45 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:52:45 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:52:51 INFO  Testbase:71 - Add product into the cart ...
+2024-05-21 12:54:13 INFO  Testbase:46 - browser name is chrome
+2024-05-21 12:54:13 INFO  Testbase:49 - url is http://localhost:3000/
+2024-05-21 12:54:17 INFO  Testbase:71 - Add product into the cart ...
